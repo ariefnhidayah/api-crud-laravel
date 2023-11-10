@@ -65,5 +65,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## How to installation
 1. Create database with name products
-2. Run migration with `php artisan migrate`
-3. Run script with `php artisan serve`
+2. Copy .env.example to .env and setting configration database in this file
+3. Run migration with `php artisan migrate`
+4. Run script with `php artisan serve`
